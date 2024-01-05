@@ -4,7 +4,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #6f42c1; /* Purple background color */
-    color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,7 +32,6 @@ h1 {
     width: 100px;
     height: 100px;
     background-color: #007bff;
-    color: #ffffff;
     font-size: 24px;
     display: flex;
     align-items: center;
